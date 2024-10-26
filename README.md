@@ -6,4 +6,5 @@ Then use extract_activity.py to create the dataset.
     - train
     - val
     - test
+
 use cluster_compute.py to extract video key frames, and then run run.py
