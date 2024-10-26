@@ -1,6 +1,6 @@
 First, create a <data> folder, and then place the worker intent dataset to be recognized into the data folder.
-Then use extract_activity.py to create the dataset.
-文件夹格式为  
+Then use extract_activity.py to create the dataset.  
+The folder format is 
 - data
   - worker_intent_dataset
     - train
