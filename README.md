@@ -2,7 +2,7 @@ First, create a <data> folder, and then place the worker intent dataset to be re
 然后使用extract_activity.py 创建数据集。
 文件夹格式为  
 - data
-  - activity
+ - activity
     - train
     - val
     - test
